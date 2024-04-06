@@ -1,0 +1,2955 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-04-17T12:17:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/692454969",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1868342,
+          56.1455424
+        ]
+      },
+      "id": "node/692454969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1016347679",
+        "addr:floor": "1",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!",
+        "opening_hours": "Mo-Fr 07:00-22:00, Sa,Su 08:00-22:00",
+        "ref": "132",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2190249,
+          56.1464383
+        ]
+      },
+      "id": "node/1016347679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1144150020",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптека",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3171277,
+          56.1058353
+        ]
+      },
+      "id": "node/1144150020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1151003712",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптеки Поволжья"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1866943,
+          56.1430406
+        ]
+      },
+      "id": "node/1151003712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426029837",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Цена красна",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1783228,
+          56.1484413
+        ]
+      },
+      "id": "node/1426029837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1517499668",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2681853,
+          56.1286226
+        ]
+      },
+      "id": "node/1517499668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1561709736",
+        "amenity": "pharmacy",
+        "name": "Аптека №1",
+        "name:cv": "1-мӗш Аптека",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa, Su 09:00-16:00",
+        "operator": "ГУП Чувашской республики \"Фармация\"",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2494241,
+          56.1517232
+        ]
+      },
+      "id": "node/1561709736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1584064483",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2209554,
+          56.1146063
+        ]
+      },
+      "id": "node/1584064483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1693580467",
+        "amenity": "pharmacy",
+        "name": "Добрый Аптекарь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1862102,
+          56.1127597
+        ]
+      },
+      "id": "node/1693580467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1884277167",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Фармация",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1734023,
+          56.1087467
+        ]
+      },
+      "id": "node/1884277167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933310960",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1615104,
+          56.1368617
+        ]
+      },
+      "id": "node/1933310960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933311006",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1772259,
+          56.1442737
+        ]
+      },
+      "id": "node/1933311006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2031603317",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1787376,
+          56.143875
+        ]
+      },
+      "id": "node/2031603317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2394647504",
+        "amenity": "pharmacy",
+        "brand": "Ригла",
+        "brand:wikidata": "Q4394431",
+        "healthcare": "pharmacy",
+        "name": "Ригла"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1984088,
+          56.1198166
+        ]
+      },
+      "id": "node/2394647504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395133777",
+        "amenity": "pharmacy",
+        "name": "Добрый Аптекарь",
+        "opening_hours": "07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1924417,
+          56.1165396
+        ]
+      },
+      "id": "node/2395133777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2402538547",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия-12",
+        "opening_hours": "08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1763888,
+          56.1081761
+        ]
+      },
+      "id": "node/2402538547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2402538562",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1754166,
+          56.1406244
+        ]
+      },
+      "id": "node/2402538562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2638802603",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "24/7",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1841802,
+          56.1178613
+        ]
+      },
+      "id": "node/2638802603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3290506364",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Фармация",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2168339,
+          56.1396866
+        ]
+      },
+      "id": "node/3290506364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3840846075",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2878403,
+          56.1055471
+        ]
+      },
+      "id": "node/3840846075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168437791",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2903751,
+          56.1006567
+        ]
+      },
+      "id": "node/4168437791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168463591",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптека №107",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "phone": "+7 8352 515471",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2710594,
+          56.0961214
+        ]
+      },
+      "id": "node/4168463591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168467689",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров",
+        "phone": "+7 8352 540330",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.285486,
+          56.0936391
+        ]
+      },
+      "id": "node/4168467689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4169841191",
+        "amenity": "pharmacy",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2754297,
+          56.096032
+        ]
+      },
+      "id": "node/4169841191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4291352047",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Sa 08:00-21:00;Su 09:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2792603,
+          56.1053119
+        ]
+      },
+      "id": "node/4291352047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359712817",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия",
+        "name:ru": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2563978,
+          56.1358977
+        ]
+      },
+      "id": "node/4359712817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362198090",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптечный пункт",
+        "name:ru": "Аптечный пункт"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2773674,
+          56.0913116
+        ]
+      },
+      "id": "node/4362198090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373307998",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "phone": "+7 953 0174778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.204513,
+          56.1433049
+        ]
+      },
+      "id": "node/4373307998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4376948669",
+        "amenity": "pharmacy",
+        "name": "Имплозия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2219278,
+          56.1136032
+        ]
+      },
+      "id": "node/4376948669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469861991",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "http://facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2269364,
+          56.1465427
+        ]
+      },
+      "id": "node/4469861991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469879191",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Ыармаимпекс",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "ООО \"Аптека \"Протей\"",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2275722,
+          56.1465555
+        ]
+      },
+      "id": "node/4469879191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4689651491",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2565795,
+          56.1198238
+        ]
+      },
+      "id": "node/4689651491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692938089",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Максавит"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2880351,
+          56.0921603
+        ]
+      },
+      "id": "node/4692938089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710899593",
+        "amenity": "pharmacy",
+        "name": "Экона"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.267555,
+          56.1092774
+        ]
+      },
+      "id": "node/4710899593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774280166",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2748328,
+          56.0957429
+        ]
+      },
+      "id": "node/4774280166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790832904",
+        "amenity": "pharmacy",
+        "brand": "Озерки",
+        "brand:wikidata": "Q109712399",
+        "healthcare": "pharmacy",
+        "name": "Озерки",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3010852,
+          56.10136
+        ]
+      },
+      "id": "node/4790832904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4820364621",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптечный пункт №115",
+        "operator": "Фармация",
+        "ref": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1628634,
+          56.142194
+        ]
+      },
+      "id": "node/4820364621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913597744",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1671294,
+          56.1427639
+        ]
+      },
+      "id": "node/4913597744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972044127",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "ТерраБиони",
+        "name:ru": "ТерраБиони"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1973802,
+          56.1495616
+        ]
+      },
+      "id": "node/4972044127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974594584",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Здоровый век"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1646979,
+          56.1373177
+        ]
+      },
+      "id": "node/4974594584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999473100",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1836097,
+          56.1185767
+        ]
+      },
+      "id": "node/4999473100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5008708084",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1924785,
+          56.1230259
+        ]
+      },
+      "id": "node/5008708084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5028031121",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Ричфарм",
+        "name:ru": "Ричфарм",
+        "opening_hours": "Mo-Su 07:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2774287,
+          56.1276014
+        ]
+      },
+      "id": "node/5028031121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031970837",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2317929,
+          56.1465942
+        ]
+      },
+      "id": "node/5031970837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031976922",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Озерки",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "operator": "ООО \"Эркафарм Поволжье\"",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2317284,
+          56.146582
+        ]
+      },
+      "id": "node/5031976922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032083323",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптечный пункт",
+        "operator": "ООО \"Виктори\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2294004,
+          56.1495669
+        ]
+      },
+      "id": "node/5032083323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5041366580",
+        "addr:city": "Чебоксары",
+        "addr:housenumber": "2",
+        "addr:postcode": "428030",
+        "addr:street": "Стартовая улица",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Фармация",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3878823,
+          56.1250266
+        ]
+      },
+      "id": "node/5041366580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043906421",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2841809,
+          56.0992665
+        ]
+      },
+      "id": "node/5043906421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056307823",
+        "amenity": "pharmacy",
+        "name": "Максавит",
+        "name:ru": "Максавит",
+        "opening_hours": "Mo-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2822881,
+          56.0976577
+        ]
+      },
+      "id": "node/5056307823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118162648",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Здоровый век",
+        "opening_hours": "Mo-Fr 08:00-21:00, Sa-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2572962,
+          56.118887
+        ]
+      },
+      "id": "node/5118162648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5118162650",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "mapillary": "4563070220389079",
+        "name": "Максавит"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2524829,
+          56.1230012
+        ]
+      },
+      "id": "node/5118162650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5131462443",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1851969,
+          56.1417626
+        ]
+      },
+      "id": "node/5131462443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5153264968",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1690729,
+          56.1444559
+        ]
+      },
+      "id": "node/5153264968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5159906421",
+        "amenity": "pharmacy",
+        "name": "Твоя экономия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2815744,
+          56.0975678
+        ]
+      },
+      "id": "node/5159906421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5171691259",
+        "amenity": "pharmacy",
+        "brand": "Озерки",
+        "brand:wikidata": "Q109712399",
+        "healthcare": "pharmacy",
+        "name": "Озерки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2470189,
+          56.1312705
+        ]
+      },
+      "id": "node/5171691259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175435872",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1843151,
+          56.117795
+        ]
+      },
+      "id": "node/5175435872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5182159310",
+        "amenity": "pharmacy",
+        "name": "Экономная аптека",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3926348,
+          56.1262404
+        ]
+      },
+      "id": "node/5182159310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205559145",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия",
+        "opening_hours": "Mo-Su 07:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2520063,
+          56.12524
+        ]
+      },
+      "id": "node/5205559145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205559402",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптека Плюс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1677597,
+          56.1492198
+        ]
+      },
+      "id": "node/5205559402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220917253",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1920254,
+          56.1234438
+        ]
+      },
+      "id": "node/5220917253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220918972",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Фариация"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1916756,
+          56.1232427
+        ]
+      },
+      "id": "node/5220918972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5247105801",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1861526,
+          56.1138292
+        ]
+      },
+      "id": "node/5247105801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5247105803",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1839804,
+          56.1124347
+        ]
+      },
+      "id": "node/5247105803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5269365621",
+        "addr:floor": "1",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2072972,
+          56.1431242
+        ]
+      },
+      "id": "node/5269365621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5314640369",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1749851,
+          56.1485761
+        ]
+      },
+      "id": "node/5314640369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5336556823",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1945285,
+          56.1484562
+        ]
+      },
+      "id": "node/5336556823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5337980846",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1622412,
+          56.1354423
+        ]
+      },
+      "id": "node/5337980846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5511716207",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Айболит",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa, Su 08:00-20:00",
+        "operator": "ООО \"Аптеки Поволжья\"",
+        "phone": "+7 8352 459102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2125288,
+          56.1444189
+        ]
+      },
+      "id": "node/5511716207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518578709",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Велес"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1665248,
+          56.1434514
+        ]
+      },
+      "id": "node/5518578709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5530355338",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1913957,
+          56.1483361
+        ]
+      },
+      "id": "node/5530355338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5533382355",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa, Su 08:00-20:00",
+        "operator": "ООО \"Ригла\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.228394,
+          56.1465743
+        ]
+      },
+      "id": "node/5533382355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5549119223",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2764437,
+          56.0915996
+        ]
+      },
+      "id": "node/5549119223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5570669662",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 08:00-20:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2512517,
+          56.1226887
+        ]
+      },
+      "id": "node/5570669662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5596440300",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2602352,
+          56.1154308
+        ]
+      },
+      "id": "node/5596440300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5606372411",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2699079,
+          56.141477
+        ]
+      },
+      "id": "node/5606372411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5731953040",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Советская аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.258494,
+          56.1175348
+        ]
+      },
+      "id": "node/5731953040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754078126",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Su 08:00-19:00",
+        "operator": "ООО \"Парацельс-Н\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3009907,
+          56.0988729
+        ]
+      },
+      "id": "node/5754078126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820816195",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1730069,
+          56.1485752
+        ]
+      },
+      "id": "node/5820816195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5834564180",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Твоя аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1716797,
+          56.1493617
+        ]
+      },
+      "id": "node/5834564180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6094585569",
+        "amenity": "pharmacy",
+        "name": "Будь здоров!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.289396,
+          56.0837297
+        ]
+      },
+      "id": "node/6094585569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095406885",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 07:00-21:00;Sa-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2424829,
+          56.1114293
+        ]
+      },
+      "id": "node/6095406885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095470338",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2369625,
+          56.1108495
+        ]
+      },
+      "id": "node/6095470338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6097825020",
+        "amenity": "pharmacy",
+        "brand": "Ригла",
+        "brand:wikidata": "Q4394431",
+        "brand:wikipedia": "ru:Ригла",
+        "healthcare": "pharmacy",
+        "name": "Ригла"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2808413,
+          56.107316
+        ]
+      },
+      "id": "node/6097825020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6098448740",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Максавит"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2806574,
+          56.1017339
+        ]
+      },
+      "id": "node/6098448740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6098450356",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптека №1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2807711,
+          56.1023006
+        ]
+      },
+      "id": "node/6098450356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6391843546",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1879467,
+          56.1202049
+        ]
+      },
+      "id": "node/6391843546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6391843658",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Максавит"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1585763,
+          56.1330189
+        ]
+      },
+      "id": "node/6391843658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438776962",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2876405,
+          56.1307137
+        ]
+      },
+      "id": "node/6438776962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6458156157",
+        "amenity": "pharmacy",
+        "name": "Фармация",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa,Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1928766,
+          56.1382863
+        ]
+      },
+      "id": "node/6458156157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6458156173",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "level": "-1",
+        "name": "Демомед"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1919951,
+          56.1372378
+        ]
+      },
+      "id": "node/6458156173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6553636796",
+        "amenity": "pharmacy",
+        "name": "Фито Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2867126,
+          56.0913725
+        ]
+      },
+      "id": "node/6553636796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6553651188",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2859231,
+          56.0929817
+        ]
+      },
+      "id": "node/6553651188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555223185",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "21 Плюс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2865418,
+          56.0987408
+        ]
+      },
+      "id": "node/6555223185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6556046485",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2720583,
+          56.0965056
+        ]
+      },
+      "id": "node/6556046485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611376688",
+        "amenity": "pharmacy",
+        "name": "Добрый доктор",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2519591,
+          56.1228621
+        ]
+      },
+      "id": "node/6611376688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611378299",
+        "amenity": "pharmacy",
+        "name": "Озерки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2525219,
+          56.1235289
+        ]
+      },
+      "id": "node/6611378299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611387838",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1870139,
+          56.1132379
+        ]
+      },
+      "id": "node/6611387838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021533672",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2206536,
+          56.1131236
+        ]
+      },
+      "id": "node/7021533672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7125013326",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Аптека №6",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2493581,
+          56.1284082
+        ]
+      },
+      "id": "node/7125013326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7263520228",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Аптечный пункт",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+        "owner": "ООО \"Тапагма\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2138724,
+          56.1206925
+        ]
+      },
+      "id": "node/7263520228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7299123835",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "operator": "ООО \"Цефей\"",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2080841,
+          56.1190145
+        ]
+      },
+      "id": "node/7299123835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7506175091",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптека 21 плюс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2802156,
+          56.1346028
+        ]
+      },
+      "id": "node/7506175091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7577486092",
+        "amenity": "pharmacy",
+        "name": "Максавит",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa, Su 08:00-20:00",
+        "phone": "+7 927 8480821",
+        "website": "https://maksavit.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2693178,
+          56.1401809
+        ]
+      },
+      "id": "node/7577486092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7577630670",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!",
+        "phone": "+7 800 7770303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.269813,
+          56.14327
+        ]
+      },
+      "id": "node/7577630670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7587861442",
+        "amenity": "pharmacy",
+        "name": "Фармация"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1746248,
+          56.1094941
+        ]
+      },
+      "id": "node/7587861442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7588504543",
+        "amenity": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2417816,
+          56.1117264
+        ]
+      },
+      "id": "node/7588504543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7594423508",
+        "amenity": "pharmacy",
+        "brand": "Озерки",
+        "brand:wikidata": "Q109712399",
+        "healthcare": "pharmacy",
+        "name": "Озерки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2624912,
+          56.1131535
+        ]
+      },
+      "id": "node/7594423508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710269538",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.197566,
+          56.1493922
+        ]
+      },
+      "id": "node/7710269538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710269539",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 07:00-21:00;Sa-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2804785,
+          56.1343383
+        ]
+      },
+      "id": "node/7710269539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710269540",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Sa 07:00-21:00;Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2845769,
+          56.0689469
+        ]
+      },
+      "id": "node/7710269540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710279866",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3021299,
+          56.1004706
+        ]
+      },
+      "id": "node/7710279866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710303211",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 07:00-21:00;Sa-Su 08:00-20:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1971154,
+          56.1414967
+        ]
+      },
+      "id": "node/7710303211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710307925",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Sa 07:00-22:00;Su 08:00-22:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.301761,
+          56.100515
+        ]
+      },
+      "id": "node/7710307925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710308474",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2684354,
+          56.1288914
+        ]
+      },
+      "id": "node/7710308474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710308492",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 08:00-21:00;Sa 08:00-20:00;Su 09:00-20:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2589564,
+          56.1115227
+        ]
+      },
+      "id": "node/7710308492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710308497",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Sa 08:00-21:00;Su 09:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.282502,
+          56.099039
+        ]
+      },
+      "id": "node/7710308497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710309309",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Sa 08:00-21:00;Su 09:00-20:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1867245,
+          56.1425026
+        ]
+      },
+      "id": "node/7710309309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710309327",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2669843,
+          56.0946032
+        ]
+      },
+      "id": "node/7710309327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710309341",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.177435,
+          56.149627
+        ]
+      },
+      "id": "node/7710309341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710309359",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2864544,
+          56.1082954
+        ]
+      },
+      "id": "node/7710309359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710312189",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.177003,
+          56.143835
+        ]
+      },
+      "id": "node/7710312189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7942404258",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Sa 08:00-21:00;Su 09:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3160177,
+          56.1050281
+        ]
+      },
+      "id": "node/7942404258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8194573883",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Максавит"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3144787,
+          56.1046858
+        ]
+      },
+      "id": "node/8194573883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8518186842",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Будь здоров!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2000278,
+          56.1398249
+        ]
+      },
+      "id": "node/8518186842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8752355900",
+        "amenity": "pharmacy",
+        "brand": "Вита Экспресс",
+        "brand:wikidata": "Q109810737",
+        "contact:facebook": "https://www.facebook.com/aptekivita",
+        "contact:instagram": "https://www.instagram.com/vita_express/",
+        "contact:phone": "+7 800 7550003",
+        "contact:vk": "https://vk.com/aptekivita",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:en": "Vita Express",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "website": "https://vitaexpress.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.327406,
+          56.104395
+        ]
+      },
+      "id": "node/8752355900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8805102004",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2083714,
+          56.1194024
+        ]
+      },
+      "id": "node/8805102004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8856172316",
+        "amenity": "pharmacy",
+        "email": "ooo_klever.2019@mail.ru",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa, Su 09:00-20:00",
+        "phone": "+7 951 9987510;+7 8352 607510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2157678,
+          56.1385444
+        ]
+      },
+      "id": "node/8856172316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8871027520",
+        "amenity": "pharmacy",
+        "contact:vk": "https://vk.com/aptekamagia21",
+        "healthcare": "pharmacy",
+        "name": "Магия",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "website": "магия21.рф"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2199166,
+          56.1396256
+        ]
+      },
+      "id": "node/8871027520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9090622143",
+        "amenity": "pharmacy",
+        "name": "Магия",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+7 8352 446767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2136417,
+          56.1446392
+        ]
+      },
+      "id": "node/9090622143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234721799",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Магия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2290096,
+          56.1245987
+        ]
+      },
+      "id": "node/9234721799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9363337554",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "name:ru": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2624421,
+          56.1313302
+        ]
+      },
+      "id": "node/9363337554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9447141784",
+        "amenity": "pharmacy",
+        "contact:email": "info@eapteka.ru",
+        "contact:phone": "+7 800 7007711",
+        "contact:website": "https://www.eapteka.ru/",
+        "healthcare": "pharmacy",
+        "name": "Еаптека",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.279088,
+          56.096428
+        ]
+      },
+      "id": "node/9447141784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9680623104",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2880584,
+          56.1076883
+        ]
+      },
+      "id": "node/9680623104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9680652228",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2454032,
+          56.132443
+        ]
+      },
+      "id": "node/9680652228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9680652233",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1801424,
+          56.1232059
+        ]
+      },
+      "id": "node/9680652233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9680652391",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.383538,
+          56.125449
+        ]
+      },
+      "id": "node/9680652391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9710699110",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2461812,
+          56.1310719
+        ]
+      },
+      "id": "node/9710699110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9801761378",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 835 2285090-5623",
+        "contact:website": "https://aloeapteka.ru/",
+        "healthcare": "pharmacy",
+        "name": "Алоэ",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3295307,
+          56.1090912
+        ]
+      },
+      "id": "node/9801761378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9884301676",
+        "amenity": "pharmacy",
+        "name": "Будь здоров!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.171614,
+          56.1497207
+        ]
+      },
+      "id": "node/9884301676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9965937623",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Сибирское здоровье",
+        "website": "ru.siberianhealth.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2484381,
+          56.1330327
+        ]
+      },
+      "id": "node/9965937623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991100886",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Экспресс",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.374758,
+          56.125922
+        ]
+      },
+      "id": "node/9991100886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10123404997",
+        "addr:floor": "1",
+        "amenity": "pharmacy",
+        "brand": "Апрель",
+        "brand:wikidata": "Q114060847",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Апрель",
+        "opening_hours": "Mo-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2072005,
+          56.1179751
+        ]
+      },
+      "id": "node/10123404997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10166502160",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2774962,
+          56.1320397
+        ]
+      },
+      "id": "node/10166502160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10209834425",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Центральная",
+        "opening_hours": "Mo-Su 00:10-23:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1931753,
+          56.1493342
+        ]
+      },
+      "id": "node/10209834425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10209834429",
+        "amenity": "pharmacy",
+        "contact:phone": "+7 800 7550003",
+        "contact:website": "https://vitaexpress.ru/",
+        "healthcare": "pharmacy",
+        "name": "Вита Центральная",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2318849,
+          56.146588
+        ]
+      },
+      "id": "node/10209834429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734091129",
+        "amenity": "pharmacy",
+        "name": "Apteka.ru",
+        "opening_hours": "Mo-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.163526,
+          56.143089
+        ]
+      },
+      "id": "node/10734091129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10815887447",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2012995,
+          56.1413622
+        ]
+      },
+      "id": "node/10815887447"
+    }
+  ]
+}
