@@ -12,6 +12,10 @@
 
 </script>
 
+<svelte:head>
+	<title>👻 Lookahead 😛</title>
+</svelte:head>
+
 <Header></Header>
 
 <Content>
